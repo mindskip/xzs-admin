@@ -1,7 +1,7 @@
 package com.mindskip.xzs.service;
 
 import com.mindskip.xzs.domain.Subject;
-import com.mindskip.xzs.viewmodel.admin.education.SubjectPageRequestVM;
+import com.mindskip.xzs.viewmodel.education.SubjectPageRequestVM;
 import com.github.pagehelper.PageInfo;
 
 import java.util.List;

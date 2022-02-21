@@ -3,7 +3,7 @@ package com.mindskip.xzs.service.impl;
 import com.mindskip.xzs.domain.Subject;
 import com.mindskip.xzs.repository.SubjectMapper;
 import com.mindskip.xzs.service.SubjectService;
-import com.mindskip.xzs.viewmodel.admin.education.SubjectPageRequestVM;
+import com.mindskip.xzs.viewmodel.education.SubjectPageRequestVM;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import org.springframework.beans.factory.annotation.Autowired;

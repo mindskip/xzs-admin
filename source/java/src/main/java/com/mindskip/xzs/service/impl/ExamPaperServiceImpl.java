@@ -1,6 +1,5 @@
 package com.mindskip.xzs.service.impl;
 
-import com.mindskip.xzs.domain.*;
 import com.mindskip.xzs.domain.TextContent;
 import com.mindskip.xzs.domain.enums.ExamPaperTypeEnum;
 import com.mindskip.xzs.domain.exam.ExamPaperQuestionItemObject;
@@ -17,10 +16,10 @@ import com.mindskip.xzs.utility.DateTimeUtil;
 import com.mindskip.xzs.utility.JsonUtil;
 import com.mindskip.xzs.utility.ModelMapperSingle;
 import com.mindskip.xzs.utility.ExamUtil;
-import com.mindskip.xzs.viewmodel.admin.exam.ExamPaperEditRequestVM;
-import com.mindskip.xzs.viewmodel.admin.exam.ExamPaperPageRequestVM;
-import com.mindskip.xzs.viewmodel.admin.exam.ExamPaperTitleItemVM;
-import com.mindskip.xzs.viewmodel.admin.question.QuestionEditRequestVM;
+import com.mindskip.xzs.viewmodel.exam.ExamPaperEditRequestVM;
+import com.mindskip.xzs.viewmodel.exam.ExamPaperPageRequestVM;
+import com.mindskip.xzs.viewmodel.exam.ExamPaperTitleItemVM;
+import com.mindskip.xzs.viewmodel.question.QuestionEditRequestVM;
 import com.mindskip.xzs.viewmodel.student.dashboard.PaperFilter;
 import com.mindskip.xzs.viewmodel.student.dashboard.PaperInfo;
 import com.mindskip.xzs.viewmodel.student.exam.ExamPaperPageVM;

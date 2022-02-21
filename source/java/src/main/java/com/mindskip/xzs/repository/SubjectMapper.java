@@ -1,7 +1,7 @@
 package com.mindskip.xzs.repository;
 
 import com.mindskip.xzs.domain.Subject;
-import com.mindskip.xzs.viewmodel.admin.education.SubjectPageRequestVM;
+import com.mindskip.xzs.viewmodel.education.SubjectPageRequestVM;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

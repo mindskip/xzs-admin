@@ -2,8 +2,8 @@ package com.mindskip.xzs.service;
 
 import com.mindskip.xzs.domain.ExamPaper;
 import com.mindskip.xzs.domain.User;
-import com.mindskip.xzs.viewmodel.admin.exam.ExamPaperEditRequestVM;
-import com.mindskip.xzs.viewmodel.admin.exam.ExamPaperPageRequestVM;
+import com.mindskip.xzs.viewmodel.exam.ExamPaperEditRequestVM;
+import com.mindskip.xzs.viewmodel.exam.ExamPaperPageRequestVM;
 import com.mindskip.xzs.viewmodel.student.dashboard.PaperFilter;
 import com.mindskip.xzs.viewmodel.student.dashboard.PaperInfo;
 import com.mindskip.xzs.viewmodel.student.exam.ExamPaperPageVM;

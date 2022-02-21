@@ -1,7 +1,6 @@
 package com.mindskip.xzs.configuration.spring.mvc;
 
 import com.mindskip.xzs.configuration.property.SystemConfig;
-import com.mindskip.xzs.configuration.spring.wx.TokenHandlerInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.*;
@@ -18,18 +17,15 @@ import java.util.List;
 @Configuration
 public class WebMvcConfiguration extends WebMvcConfigurationSupport {
 
-    private final TokenHandlerInterceptor tokenHandlerInterceptor;
     private final SystemConfig systemConfig;
 
     /**
      * Instantiates a new Web mvc configuration.
      *
-     * @param tokenHandlerInterceptor the token handler interceptor
      * @param systemConfig            the system config
      */
     @Autowired
-    public WebMvcConfiguration(TokenHandlerInterceptor tokenHandlerInterceptor, SystemConfig systemConfig) {
-        this.tokenHandlerInterceptor = tokenHandlerInterceptor;
+    public WebMvcConfiguration(SystemConfig systemConfig) {
         this.systemConfig = systemConfig;
     }
 
@@ -51,9 +47,6 @@ public class WebMvcConfiguration extends WebMvcConfigurationSupport {
     public void addInterceptors(InterceptorRegistry registry) {
         List<String> securityIgnoreUrls = systemConfig.getWx().getSecurityIgnoreUrls();
         String[] ignores = new String[securityIgnoreUrls.size()];
-        registry.addInterceptor(tokenHandlerInterceptor)
-                .addPathPatterns("/api/wx/**")
-                .excludePathPatterns(securityIgnoreUrls.toArray(ignores));
         super.addInterceptors(registry);
     }
 

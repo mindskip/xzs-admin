@@ -5,7 +5,7 @@ import com.mindskip.xzs.domain.MessageUser;
 import com.mindskip.xzs.repository.MessageMapper;
 import com.mindskip.xzs.repository.MessageUserMapper;
 import com.mindskip.xzs.service.MessageService;
-import com.mindskip.xzs.viewmodel.admin.message.MessagePageRequestVM;
+import com.mindskip.xzs.viewmodel.message.MessagePageRequestVM;
 import com.mindskip.xzs.viewmodel.student.user.MessageRequestVM;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;

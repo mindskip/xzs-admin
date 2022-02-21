@@ -2,7 +2,7 @@ package com.mindskip.xzs.repository;
 
 import com.mindskip.xzs.domain.other.KeyValue;
 import com.mindskip.xzs.domain.Question;
-import com.mindskip.xzs.viewmodel.admin.question.QuestionPageRequestVM;
+import com.mindskip.xzs.viewmodel.question.QuestionPageRequestVM;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 

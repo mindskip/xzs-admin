@@ -1,8 +1,8 @@
 package com.mindskip.xzs.service;
 
 import com.mindskip.xzs.domain.Question;
-import com.mindskip.xzs.viewmodel.admin.question.QuestionEditRequestVM;
-import com.mindskip.xzs.viewmodel.admin.question.QuestionPageRequestVM;
+import com.mindskip.xzs.viewmodel.question.QuestionEditRequestVM;
+import com.mindskip.xzs.viewmodel.question.QuestionPageRequestVM;
 import com.github.pagehelper.PageInfo;
 
 import java.util.List;

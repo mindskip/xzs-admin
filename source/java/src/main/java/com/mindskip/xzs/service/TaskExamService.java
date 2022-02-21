@@ -2,8 +2,8 @@ package com.mindskip.xzs.service;
 
 import com.mindskip.xzs.domain.TaskExam;
 import com.mindskip.xzs.domain.User;
-import com.mindskip.xzs.viewmodel.admin.task.TaskPageRequestVM;
-import com.mindskip.xzs.viewmodel.admin.task.TaskRequestVM;
+import com.mindskip.xzs.viewmodel.task.TaskPageRequestVM;
+import com.mindskip.xzs.viewmodel.task.TaskRequestVM;
 import com.github.pagehelper.PageInfo;
 
 import java.util.List;

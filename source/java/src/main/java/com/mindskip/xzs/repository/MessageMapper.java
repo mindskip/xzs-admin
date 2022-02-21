@@ -1,7 +1,7 @@
 package com.mindskip.xzs.repository;
 
 import com.mindskip.xzs.domain.Message;
-import com.mindskip.xzs.viewmodel.admin.message.MessagePageRequestVM;
+import com.mindskip.xzs.viewmodel.message.MessagePageRequestVM;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

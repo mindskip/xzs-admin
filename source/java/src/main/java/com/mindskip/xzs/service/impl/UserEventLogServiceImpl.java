@@ -5,7 +5,7 @@ import com.mindskip.xzs.domain.other.KeyValue;
 import com.mindskip.xzs.repository.UserEventLogMapper;
 import com.mindskip.xzs.service.UserEventLogService;
 import com.mindskip.xzs.utility.DateTimeUtil;
-import com.mindskip.xzs.viewmodel.admin.user.UserEventPageRequestVM;
+import com.mindskip.xzs.viewmodel.user.UserEventPageRequestVM;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import org.springframework.beans.factory.annotation.Autowired;
