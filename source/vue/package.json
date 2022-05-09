@@ -17,10 +17,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://gitee.com/mindskip/uexam.git"
+        "url": "git+https://gitee.com/mindskip/admin.git"
     },
     "bugs": {
-        "url": "https://gitee.com/mindskip/uexam/issues",
+        "url": "https://gitee.com/mindskip/admin/issues",
         "email": "mindskip@qq.com"
     },
     "husky": {
@@ -36,19 +36,19 @@
     },
     "dependencies": {
         "axios": "^0.19.0",
-        "clipboard": "^2.0.10",
-        "codemirror": "^5.65.2",
-        "core-js": "^3.21.0",
+        "clipboard": "^2.0.11",
+        "codemirror": "^5.65.3",
+        "core-js": "^3.22.4",
         "driver.js": "^0.9.8",
         "dropzone": "^5.9.3",
-        "echarts": "^5.3.0",
-        "element-ui": "^2.15.6",
+        "echarts": "^5.3.2",
+        "element-ui": "^2.15.8",
         "file-saver": "^2.0.5",
-        "fuse.js": "^6.5.3",
+        "fuse.js": "^6.6.1",
         "husky": "^7.0.4",
         "js-cookie": "2.2.0",
         "jsonlint": "^1.6.3",
-        "jszip": "^3.7.1",
+        "jszip": "^3.9.1",
         "normalize.css": "8.0.1",
         "nprogress": "0.2.0",
         "screenfull": "^5.2.0",
@@ -59,11 +59,11 @@
         "xlsx": "^0.18.5"
     },
     "devDependencies": {
-        "@vue/cli-plugin-babel": "^4.5.15",
-        "@vue/cli-plugin-eslint": "^4.5.15",
-        "@vue/cli-plugin-router": "^4.5.15",
-        "@vue/cli-plugin-vuex": "^4.5.15",
-        "@vue/cli-service": "^4.5.15",
+        "@vue/cli-plugin-babel": "^4.5.17",
+        "@vue/cli-plugin-eslint": "^4.5.17",
+        "@vue/cli-plugin-router": "^4.5.17",
+        "@vue/cli-plugin-vuex": "^4.5.17",
+        "@vue/cli-service": "^4.5.17",
         "@vue/eslint-config-standard": "^4.0.0",
         "babel-eslint": "^10.1.0",
         "eslint": "^5.16.0",
