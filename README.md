@@ -4,12 +4,15 @@
 
 xzs-admin 是一款教学考试管理系统，综合各大院校需求，充分利用互联网络B/S管理系统模式，以网络为平台，为各个学校教务系统的管理提供一个平台，帮助学校管理教务系统，用一个帐号解决学校教务教学管理，灵活地定制符合学校自己实际情况的教务系统，形成的一套完整的教学体系,。有完整的文档教程和视频教程，易于二次开发，部署简单快捷、界面设计友好。
 
-### 教程地址
+### 文档视频教程
 
-* 演示地址：[https://www.mindskip.net/xzs.html](https://www.mindskip.net/xzs.html)
+* 数据库脚本下载地址：[https://www.mindskip.net:999](https://www.mindskip.net:999)
 * 文档教程：[https://www.mindskip.net:999](https://www.mindskip.net:999)
 * 视频教程：[https://ke.qq.com/course/3614230](https://ke.qq.com/course/3614230)
-* QQ交流群：`675037554`
+* QQ交流群16：`556522923`
+* 商务QQ：`2732007709`
+* 商务微信：`mind_skip`
+* 商务邮箱：`mindskip@qq.com`
 
 ### 功能列表
 
