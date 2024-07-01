@@ -8,8 +8,8 @@ xzs-admin 是一款教学考试管理系统，综合各大院校需求，充分�
 
 * 数据库脚本下载地址：[https://www.mindskip.net:999](https://www.mindskip.net:999)
 * 文档教程：[https://www.mindskip.net:999](https://www.mindskip.net:999)
-* 视频教程：[https://ke.qq.com/course/3614230](https://ke.qq.com/course/3614230)
-* QQ交流群16：`556522923`
+* 视频教程：[https://space.bilibili.com/1389892305](https://space.bilibili.com/1389892305)
+* QQ交流群17：`624825080`
 * 商务QQ：`2732007709`
 * 商务微信：`whmindskip`
 * 商务邮箱：`mindskip@qq.com`
