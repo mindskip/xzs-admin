@@ -38,15 +38,15 @@ xzs-admin 是一款教学考试管理系统，综合各大院校需求，充分�
 
 <table>
     <tr>
-        <td><img src="docs/images/admin/1.png"/></td>
-        <td><img src="docs/images/admin/2.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/admin/1.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/admin/2.png"/></td>
     </tr>
         <tr>
-        <td><img src="docs/images/admin/3.png"/></td>
-        <td><img src="docs/images/admin/4.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/admin/3.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/admin/4.png"/></td>
     </tr>
         <tr>
-        <td><img src="docs/images/admin/5.png"/></td>
-        <td><img src="docs/images/admin/6.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/admin/5.png"/></td>
+        <td><img src="https://www.mindskip.net/style/git/images/admin/6.png"/></td>
     </tr>
 </table>
